@@ -26,6 +26,7 @@ tailwind
 
 ## Preview
 
-![Todo App Preview](./assets/Screenshot%202024-01-31%20190511.png)
+![Todo App Preview](<src/assets/Screenshot%202024-01-31%20190511.png>) 
+
 
 
