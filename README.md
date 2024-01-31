@@ -24,5 +24,8 @@ JavaScript
 tailwind
 
 
-![Todo App Preview](./assets/Screenshot 2024-01-31 190511.png)
+## Preview
+
+![Todo App Preview](./assets/Screenshot%202024-01-31%20190511.png)
+
 
