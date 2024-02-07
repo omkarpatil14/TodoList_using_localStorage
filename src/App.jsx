@@ -2,7 +2,7 @@ import { useState ,useEffect } from "react"
 import { TodoProvider } from "./Context"
 import TodoForm from "./Component/TodoForm"
 import TodoItem from "./Component/TodoItem"
-import Footer from "./Component/footer"
+import Footer from "./Component/Footer"
 
 
 function App() {
